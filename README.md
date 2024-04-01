@@ -45,7 +45,7 @@ int main(void)
 	return 0; }
 ```
 
-##OUTPUT
+**##OUTPUT**
 ![image](https://github.com/Soundaryajothi/Linux-Process-API-fork-wait-exec/assets/144870490/02d42663-004f-439b-9c47-ce936faaf017)
 
 
@@ -73,9 +73,9 @@ int main() {
         exit(EXIT_SUCCESS);
     }
     return 0;
-```
 }
-##OUTPUT
+```
+**##OUTPUT**
 ![image](https://github.com/Soundaryajothi/Linux-Process-API-fork-wait-exec/assets/144870490/cf305ff6-1958-4094-8474-b4a1ce9caa88)
 
 
@@ -110,7 +110,7 @@ int main() {
 }
 ```
 
-##OUTPUT
+**##OUTPUT**
 ![image](https://github.com/Soundaryajothi/Linux-Process-API-fork-wait-exec/assets/144870490/248f38ec-b0cc-446c-acaa-527bc0caade5)
 
 # RESULT:
